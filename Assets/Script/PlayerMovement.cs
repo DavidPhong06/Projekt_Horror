@@ -1,39 +1,30 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f; // R˝chlosù pohybu hr·Ëa
-    private Rigidbody2D rb;     // Referencia na Rigidbody2D hr·Ëa
-    private Vector2 movement;   // Uchov·vanie smeru pohybu
+    public float speed = 5f; // R˝chlosù pohybu hr·Ëa
 
-    void Start()
-    {
-        // Priradenie komponentu Rigidbody2D
-        rb = GetComponent<Rigidbody2D>();
-    }
+    private Vector2 movement;
 
     void Update()
     {
-        // ZÌskanie vstupu z kl·vesnice (öÌpky alebo WASD)
-        float moveX = Input.GetAxisRaw("Horizontal");
-        float moveY = Input.GetAxisRaw("Vertical");
+        // ZÌskanie vstupu od hr·Ëa (öÌpky alebo WASD)
+        float horizontal = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
 
-        // Povolenie pohybu iba na jednej osi naraz
-        if (moveX != 0)
+        // Zak·zanie diagon·lneho pohybu
+        if (horizontal != 0 && vertical != 0)
         {
-            moveY = 0; // Zak·ûe vertik·lny pohyb, ak hr·Ë ide horizont·lne
+            vertical = 0; // Ak hr·Ë drûÌ dve kl·vesy, pohyb diagon·lne nie je povolen˝
         }
 
-        movement.x = moveX;
-        movement.y = moveY;
+        // Nastavenie pohybu
+        movement = new Vector2(horizontal, vertical).normalized;
     }
 
     void FixedUpdate()
     {
-        // Aplik·cia pohybu na Rigidbody2D
-        rb.velocity = movement * moveSpeed;
+        // Aplik·cia pohybu
+        transform.Translate(movement * speed * Time.fixedDeltaTime);
     }
 }
-
