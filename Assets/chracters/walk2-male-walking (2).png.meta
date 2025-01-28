@@ -708,7 +708,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walk2-male-walking (2)_0: -4722539432217985919
+      walk2-male-walking (2)_1: 3473731347718893193
+      walk2-male-walking (2)_10: -2207751012529548398
+      walk2-male-walking (2)_11: -2046644771980969834
+      walk2-male-walking (2)_12: 649104888222222463
+      walk2-male-walking (2)_13: 1063255305038235919
+      walk2-male-walking (2)_14: 1706643514806325330
+      walk2-male-walking (2)_15: 583525979848634256
+      walk2-male-walking (2)_16: -4068065469852032169
+      walk2-male-walking (2)_17: -7717731018017055415
+      walk2-male-walking (2)_18: -3045290998791965968
+      walk2-male-walking (2)_19: 3195491861684726271
+      walk2-male-walking (2)_2: -1271107475730987499
+      walk2-male-walking (2)_20: -368035745340938979
+      walk2-male-walking (2)_21: 1695281603380154619
+      walk2-male-walking (2)_22: 2734371613528655892
+      walk2-male-walking (2)_23: 5665399301439620370
+      walk2-male-walking (2)_3: 2827093934716139907
+      walk2-male-walking (2)_4: 5694825868635445853
+      walk2-male-walking (2)_5: -206187347438131533
+      walk2-male-walking (2)_6: 5569172240593994245
+      walk2-male-walking (2)_7: 5083677942719688334
+      walk2-male-walking (2)_8: -1428480180097640316
+      walk2-male-walking (2)_9: 7803716845699823980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -708,7 +708,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walk2-female-walking (1)_0: 3399390332601475413
+      walk2-female-walking (1)_1: 2751337098463627269
+      walk2-female-walking (1)_10: 8949966703291198351
+      walk2-female-walking (1)_11: 5288261412781513660
+      walk2-female-walking (1)_12: 3768102242244453280
+      walk2-female-walking (1)_13: -4641354238608168217
+      walk2-female-walking (1)_14: -7594641502096547309
+      walk2-female-walking (1)_15: 4311944576282950792
+      walk2-female-walking (1)_16: -927003517594982622
+      walk2-female-walking (1)_17: 6032253351932359850
+      walk2-female-walking (1)_18: -6157599609451749773
+      walk2-female-walking (1)_19: -3372948167683895512
+      walk2-female-walking (1)_2: 8727527952244278953
+      walk2-female-walking (1)_20: -2996069923203497282
+      walk2-female-walking (1)_21: -6546626725662405337
+      walk2-female-walking (1)_22: -8543910392551442241
+      walk2-female-walking (1)_23: -5963329507407035461
+      walk2-female-walking (1)_3: -671558620193461016
+      walk2-female-walking (1)_4: 5564619193928988449
+      walk2-female-walking (1)_5: 3797237243052969529
+      walk2-female-walking (1)_6: 5128402973412098451
+      walk2-female-walking (1)_7: 4182945271935693440
+      walk2-female-walking (1)_8: 4478797817071660243
+      walk2-female-walking (1)_9: 3000708469360816126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
