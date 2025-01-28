@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CollisionTextToggle : MonoBehaviour
+public class CollisionTextToggle1 : MonoBehaviour
 {
     public GameObject text;
     public GameObject text1;
@@ -25,7 +25,7 @@ public class CollisionTextToggle : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("indicator"))
+        if (collision.gameObject.CompareTag("indicator1"))
         {
             hasCollidedWithIndicator = true;
 
@@ -59,7 +59,7 @@ public class CollisionTextToggle : MonoBehaviour
             else
             {
                 if (texts[currentTextIndex] != null) texts[currentTextIndex].SetActive(false);
-                GameObject indicator = GameObject.FindGameObjectWithTag("indicator");
+                GameObject indicator = GameObject.FindGameObjectWithTag("indicator1");
                 if (indicator != null) Destroy(indicator);
             }
         }
