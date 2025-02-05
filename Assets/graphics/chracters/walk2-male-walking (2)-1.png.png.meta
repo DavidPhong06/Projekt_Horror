@@ -1,79 +1,79 @@
 fileFormatVersion: 2
-guid: 1bb9a35f19c90e540980884f85373c53
+guid: 8618a4005b7a8f2459e94c2a296cbaeb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3399390332601475413
-    second: walk2-female-walking (1)_0
+      213: -6449553510251666749
+    second: walk2-male-walking (2)-1.png_0
   - first:
-      213: 2751337098463627269
-    second: walk2-female-walking (1)_1
+      213: -1063870250314664128
+    second: walk2-male-walking (2)-1.png_1
   - first:
-      213: 8727527952244278953
-    second: walk2-female-walking (1)_2
+      213: -1225266655342050945
+    second: walk2-male-walking (2)-1.png_2
   - first:
-      213: -671558620193461016
-    second: walk2-female-walking (1)_3
+      213: 6106020813668886637
+    second: walk2-male-walking (2)-1.png_3
   - first:
-      213: 5564619193928988449
-    second: walk2-female-walking (1)_4
+      213: 2098113510483023594
+    second: walk2-male-walking (2)-1.png_4
   - first:
-      213: 3797237243052969529
-    second: walk2-female-walking (1)_5
+      213: -120768266321005119
+    second: walk2-male-walking (2)-1.png_5
   - first:
-      213: 5128402973412098451
-    second: walk2-female-walking (1)_6
+      213: -2780823479286738672
+    second: walk2-male-walking (2)-1.png_6
   - first:
-      213: 4182945271935693440
-    second: walk2-female-walking (1)_7
+      213: -3348754215558855908
+    second: walk2-male-walking (2)-1.png_7
   - first:
-      213: 4478797817071660243
-    second: walk2-female-walking (1)_8
+      213: 2150868471478456910
+    second: walk2-male-walking (2)-1.png_8
   - first:
-      213: 3000708469360816126
-    second: walk2-female-walking (1)_9
+      213: 6315620777161094359
+    second: walk2-male-walking (2)-1.png_9
   - first:
-      213: 8949966703291198351
-    second: walk2-female-walking (1)_10
+      213: -6587619677493467129
+    second: walk2-male-walking (2)-1.png_10
   - first:
-      213: 5288261412781513660
-    second: walk2-female-walking (1)_11
+      213: 2466292912253051073
+    second: walk2-male-walking (2)-1.png_11
   - first:
-      213: 3768102242244453280
-    second: walk2-female-walking (1)_12
+      213: -1227347152130144753
+    second: walk2-male-walking (2)-1.png_12
   - first:
-      213: -4641354238608168217
-    second: walk2-female-walking (1)_13
+      213: -7290249730313727645
+    second: walk2-male-walking (2)-1.png_13
   - first:
-      213: -7594641502096547309
-    second: walk2-female-walking (1)_14
+      213: 7347430087997174569
+    second: walk2-male-walking (2)-1.png_14
   - first:
-      213: 4311944576282950792
-    second: walk2-female-walking (1)_15
+      213: -428924946441757775
+    second: walk2-male-walking (2)-1.png_15
   - first:
-      213: -927003517594982622
-    second: walk2-female-walking (1)_16
+      213: -7443664220298911631
+    second: walk2-male-walking (2)-1.png_16
   - first:
-      213: 6032253351932359850
-    second: walk2-female-walking (1)_17
+      213: -833917698856794062
+    second: walk2-male-walking (2)-1.png_17
   - first:
-      213: -6157599609451749773
-    second: walk2-female-walking (1)_18
+      213: -7689239344427653297
+    second: walk2-male-walking (2)-1.png_18
   - first:
-      213: -3372948167683895512
-    second: walk2-female-walking (1)_19
+      213: -5883687558835264860
+    second: walk2-male-walking (2)-1.png_19
   - first:
-      213: -2996069923203497282
-    second: walk2-female-walking (1)_20
+      213: -831477114683714307
+    second: walk2-male-walking (2)-1.png_20
   - first:
-      213: -6546626725662405337
-    second: walk2-female-walking (1)_21
+      213: 7112962314389060953
+    second: walk2-male-walking (2)-1.png_21
   - first:
-      213: -8543910392551442241
-    second: walk2-female-walking (1)_22
+      213: 499808005300821566
+    second: walk2-male-walking (2)-1.png_22
   - first:
-      213: -5963329507407035461
-    second: walk2-female-walking (1)_23
+      213: -6282985713850157591
+    second: walk2-male-walking (2)-1.png_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -195,13 +195,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walk2-female-walking (1)_0
+      name: walk2-male-walking (2)-1.png_0
       rect:
         serializedVersion: 2
         x: 23
         y: 208
         width: 17
-        height: 29
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,61 +209,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 551ab9b2f7f0d2f20800000000000000
-      internalID: 3399390332601475413
+      spriteID: 3c2639de0459e76a0800000000000000
+      internalID: -6449553510251666749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_1
+      name: walk2-male-walking (2)-1.png_1
       rect:
         serializedVersion: 2
         x: 87
         y: 208
         width: 17
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 508474b8386be2620800000000000000
-      internalID: 2751337098463627269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk2-female-walking (1)_2
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 208
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a600d0ae686e1970800000000000000
-      internalID: 8727527952244278953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk2-female-walking (1)_3
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 208
-        width: 18
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -272,20 +230,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ec64853ef42ea6f0800000000000000
-      internalID: -671558620193461016
+      spriteID: 04773ead4af5c31f0800000000000000
+      internalID: -1063870250314664128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_4
+      name: walk2-male-walking (2)-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71c43df77afefee0800000000000000
+      internalID: -1225266655342050945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk2-male-walking (2)-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 208
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6820e53491fcb450800000000000000
+      internalID: 6106020813668886637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk2-male-walking (2)-1.png_4
       rect:
         serializedVersion: 2
         x: 279
         y: 208
-        width: 18
-        height: 31
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +293,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 127357c9caf793d40800000000000000
-      internalID: 5564619193928988449
+      spriteID: ae6d9ca1f1ffd1d10800000000000000
+      internalID: 2098113510483023594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_5
+      name: walk2-male-walking (2)-1.png_5
       rect:
         serializedVersion: 2
         x: 343
         y: 208
-        width: 18
-        height: 30
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,20 +314,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93e4e08672f72b430800000000000000
-      internalID: 3797237243052969529
+      spriteID: 1c5fbc1d6e1f25ef0800000000000000
+      internalID: -120768266321005119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_6
+      name: walk2-male-walking (2)-1.png_6
       rect:
         serializedVersion: 2
         x: 23
         y: 144
-        width: 18
-        height: 28
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,20 +335,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3910947355fbb2740800000000000000
-      internalID: 5128402973412098451
+      spriteID: 0115c0e67c78869d0800000000000000
+      internalID: -2780823479286738672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_7
+      name: walk2-male-walking (2)-1.png_7
       rect:
         serializedVersion: 2
         x: 87
         y: 144
-        width: 18
-        height: 30
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,20 +356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08270a8009ecc0a30800000000000000
-      internalID: 4182945271935693440
+      spriteID: c13c58d88c5d681d0800000000000000
+      internalID: -3348754215558855908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_8
+      name: walk2-male-walking (2)-1.png_8
       rect:
         serializedVersion: 2
         x: 151
         y: 144
         width: 17
-        height: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,17 +377,38 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3dce95b82e2e72e30800000000000000
-      internalID: 4478797817071660243
+      spriteID: e429f01aa7b69dd10800000000000000
+      internalID: 2150868471478456910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_9
+      name: walk2-male-walking (2)-1.png_9
       rect:
         serializedVersion: 2
         x: 215
+        y: 144
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d473ce92a795a750800000000000000
+      internalID: 6315620777161094359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk2-male-walking (2)-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 279
         y: 144
         width: 17
         height: 28
@@ -398,17 +419,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: effe1c65478a4a920800000000000000
-      internalID: 3000708469360816126
+      spriteID: 708e0a75ec21494a0800000000000000
+      internalID: -6587619677493467129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_10
+      name: walk2-male-walking (2)-1.png_11
       rect:
         serializedVersion: 2
-        x: 279
+        x: 343
         y: 144
         width: 17
         height: 29
@@ -419,41 +440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8bee353c4ba43c70800000000000000
-      internalID: 8949966703291198351
+      spriteID: 1c028e236580a3220800000000000000
+      internalID: 2466292912253051073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_11
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 144
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cbb5f3c8cbda36940800000000000000
-      internalID: 5288261412781513660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk2-female-walking (1)_12
+      name: walk2-male-walking (2)-1.png_12
       rect:
         serializedVersion: 2
         x: 23
         y: 80
         width: 17
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,40 +461,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a3655a660dfa4430800000000000000
-      internalID: 3768102242244453280
+      spriteID: f060235944697fee0800000000000000
+      internalID: -1227347152130144753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_13
+      name: walk2-male-walking (2)-1.png_13
       rect:
         serializedVersion: 2
         x: 87
         y: 80
         width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7eaa10339e8969fb0800000000000000
-      internalID: -4641354238608168217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk2-female-walking (1)_14
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 80
-        width: 18
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -503,17 +482,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 312a81fbac96a9690800000000000000
-      internalID: -7594641502096547309
+      spriteID: 36153c4ee74d3da90800000000000000
+      internalID: -7290249730313727645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_15
+      name: walk2-male-walking (2)-1.png_14
       rect:
         serializedVersion: 2
-        x: 215
+        x: 151
         y: 80
         width: 18
         height: 28
@@ -524,19 +503,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88c74881fba17db30800000000000000
-      internalID: 4311944576282950792
+      spriteID: 923b6179cb057f560800000000000000
+      internalID: 7347430087997174569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_16
+      name: walk2-male-walking (2)-1.png_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb1904a8072c0af0800000000000000
+      internalID: -428924946441757775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk2-male-walking (2)-1.png_16
       rect:
         serializedVersion: 2
         x: 279
         y: 80
         width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1706cc174dac2b890800000000000000
+      internalID: -7443664220298911631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk2-male-walking (2)-1.png_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 80
+        width: 17
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -545,35 +566,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 227a634563f9223f0800000000000000
-      internalID: -927003517594982622
+      spriteID: 238cabb65445d64f0800000000000000
+      internalID: -833917698856794062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_17
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 80
-        width: 17
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa4761d967ed6b350800000000000000
-      internalID: 6032253351932359850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: walk2-female-walking (1)_18
+      name: walk2-male-walking (2)-1.png_18
       rect:
         serializedVersion: 2
         x: 23
@@ -587,14 +587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 37e5b8197cfcb8aa0800000000000000
-      internalID: -6157599609451749773
+      spriteID: f47ae6a3e855a4590800000000000000
+      internalID: -7689239344427653297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_19
+      name: walk2-male-walking (2)-1.png_19
       rect:
         serializedVersion: 2
         x: 87
@@ -608,14 +608,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82f856b1381e031d0800000000000000
-      internalID: -3372948167683895512
+      spriteID: 4a22d3e9651f85ea0800000000000000
+      internalID: -5883687558835264860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_20
+      name: walk2-male-walking (2)-1.png_20
       rect:
         serializedVersion: 2
         x: 151
@@ -629,19 +629,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb249395742db66d0800000000000000
-      internalID: -2996069923203497282
+      spriteID: df4196438fff574f0800000000000000
+      internalID: -831477114683714307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_21
+      name: walk2-male-walking (2)-1.png_21
       rect:
         serializedVersion: 2
         x: 215
         y: 16
-        width: 17
+        width: 18
         height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -650,19 +650,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72d40d3bda5b525a0800000000000000
-      internalID: -6546626725662405337
+      spriteID: 95d76e1f98156b260800000000000000
+      internalID: 7112962314389060953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_22
+      name: walk2-male-walking (2)-1.png_22
       rect:
         serializedVersion: 2
         x: 279
         y: 16
-        width: 17
+        width: 18
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -671,19 +671,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb8f33bf3ceed6980800000000000000
-      internalID: -8543910392551442241
+      spriteID: e3e1ad39bbcafe600800000000000000
+      internalID: 499808005300821566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk2-female-walking (1)_23
+      name: walk2-male-walking (2)-1.png_23
       rect:
         serializedVersion: 2
         x: 343
         y: 16
-        width: 17
+        width: 18
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -692,8 +692,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb30668786ffd3da0800000000000000
-      internalID: -5963329507407035461
+      spriteID: 9e57b1d28c95ec8a0800000000000000
+      internalID: -6282985713850157591
       vertices: []
       indices: 
       edges: []
@@ -709,30 +709,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      walk2-female-walking (1)_0: 3399390332601475413
-      walk2-female-walking (1)_1: 2751337098463627269
-      walk2-female-walking (1)_10: 8949966703291198351
-      walk2-female-walking (1)_11: 5288261412781513660
-      walk2-female-walking (1)_12: 3768102242244453280
-      walk2-female-walking (1)_13: -4641354238608168217
-      walk2-female-walking (1)_14: -7594641502096547309
-      walk2-female-walking (1)_15: 4311944576282950792
-      walk2-female-walking (1)_16: -927003517594982622
-      walk2-female-walking (1)_17: 6032253351932359850
-      walk2-female-walking (1)_18: -6157599609451749773
-      walk2-female-walking (1)_19: -3372948167683895512
-      walk2-female-walking (1)_2: 8727527952244278953
-      walk2-female-walking (1)_20: -2996069923203497282
-      walk2-female-walking (1)_21: -6546626725662405337
-      walk2-female-walking (1)_22: -8543910392551442241
-      walk2-female-walking (1)_23: -5963329507407035461
-      walk2-female-walking (1)_3: -671558620193461016
-      walk2-female-walking (1)_4: 5564619193928988449
-      walk2-female-walking (1)_5: 3797237243052969529
-      walk2-female-walking (1)_6: 5128402973412098451
-      walk2-female-walking (1)_7: 4182945271935693440
-      walk2-female-walking (1)_8: 4478797817071660243
-      walk2-female-walking (1)_9: 3000708469360816126
+      walk2-male-walking (2)-1.png_0: -6449553510251666749
+      walk2-male-walking (2)-1.png_1: -1063870250314664128
+      walk2-male-walking (2)-1.png_10: -6587619677493467129
+      walk2-male-walking (2)-1.png_11: 2466292912253051073
+      walk2-male-walking (2)-1.png_12: -1227347152130144753
+      walk2-male-walking (2)-1.png_13: -7290249730313727645
+      walk2-male-walking (2)-1.png_14: 7347430087997174569
+      walk2-male-walking (2)-1.png_15: -428924946441757775
+      walk2-male-walking (2)-1.png_16: -7443664220298911631
+      walk2-male-walking (2)-1.png_17: -833917698856794062
+      walk2-male-walking (2)-1.png_18: -7689239344427653297
+      walk2-male-walking (2)-1.png_19: -5883687558835264860
+      walk2-male-walking (2)-1.png_2: -1225266655342050945
+      walk2-male-walking (2)-1.png_20: -831477114683714307
+      walk2-male-walking (2)-1.png_21: 7112962314389060953
+      walk2-male-walking (2)-1.png_22: 499808005300821566
+      walk2-male-walking (2)-1.png_23: -6282985713850157591
+      walk2-male-walking (2)-1.png_3: 6106020813668886637
+      walk2-male-walking (2)-1.png_4: 2098113510483023594
+      walk2-male-walking (2)-1.png_5: -120768266321005119
+      walk2-male-walking (2)-1.png_6: -2780823479286738672
+      walk2-male-walking (2)-1.png_7: -3348754215558855908
+      walk2-male-walking (2)-1.png_8: 2150868471478456910
+      walk2-male-walking (2)-1.png_9: 6315620777161094359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
