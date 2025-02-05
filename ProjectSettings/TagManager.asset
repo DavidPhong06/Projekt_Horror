@@ -6,6 +6,8 @@ TagManager:
   tags:
   - indicator
   - indicator1
+  - indicator2
+  - indicator3
   layers:
   - Default
   - TransparentFX
