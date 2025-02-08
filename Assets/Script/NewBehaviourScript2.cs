@@ -2,21 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class NewBehaviourScript2 : MonoBehaviour
 {
-    
-    public static NewBehaviourScript Instance { get; private set; }
     public GameObject text;
     public GameObject text1;
     public GameObject text2;
-    public int textfin = 0;
 
     private int currentTextIndex = 0;
     private GameObject[] texts;
     private bool hasCollidedWithIndicator = false;
+
     void Start()
     {
         texts = new GameObject[] { text, text1, text2 };
+
         foreach (GameObject t in texts)
         {
             if (t != null) t.SetActive(false);
@@ -25,11 +24,9 @@ public class NewBehaviourScript : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("koliy");
-        if (collision.gameObject.CompareTag("indicator2"))
+        if (collision.gameObject.CompareTag("indicator7"))
         {
             hasCollidedWithIndicator = true;
-            Debug.Log("koliy");
 
             bool anyTextActive = false;
             foreach (GameObject t in texts)
@@ -48,18 +45,6 @@ public class NewBehaviourScript : MonoBehaviour
         }
     }
 
-    private void Awake()
-    {
-        if (Instance == null)
-        {
-            Instance = this;
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
-    }
-
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.T) && hasCollidedWithIndicator)
@@ -73,13 +58,8 @@ public class NewBehaviourScript : MonoBehaviour
             else
             {
                 if (texts[currentTextIndex] != null) texts[currentTextIndex].SetActive(false);
-                GameObject indicator = GameObject.FindGameObjectWithTag("indicator2");
-
-                if (indicator != null) 
-                {
-                    textfin = 1;
-                    Destroy(indicator);
-                }
+                GameObject indicator = GameObject.FindGameObjectWithTag("indicator7");
+                if (indicator != null) Destroy(indicator);
             }
         }
     }
