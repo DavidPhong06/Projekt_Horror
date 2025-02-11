@@ -2,29 +2,30 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 5f; // R˝chlosù pohybu hr·Ëa
+    public float moveSpeed = 5f; // RÔøΩchlosÔøΩ pohybu hrÔøΩÔøΩa
 
-    private Vector2 movement;
+    public Rigidbody2D rb;
+    public Animator animator;
+
+    Vector2 movement;
 
     void Update()
     {
-        // ZÌskanie vstupu od hr·Ëa (öÌpky alebo WASD)
-        float horizontal = Input.GetAxisRaw("Horizontal");
-        float vertical = Input.GetAxisRaw("Vertical");
+        // ZÔøΩskanie vstupu od hrÔøΩÔøΩa (ÔøΩÔøΩpky alebo WASD)
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
 
-        // Zak·zanie diagon·lneho pohybu
-        if (horizontal != 0 && vertical != 0)
-        {
-            vertical = 0; // Ak hr·Ë drûÌ dve kl·vesy, pohyb diagon·lne nie je povolen˝
-        }
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
+        animator.SetFloat("Speed", movement.sqrMagnitude);
 
-        // Nastavenie pohybu
-        movement = new Vector2(horizontal, vertical).normalized;
+
+        
     }
 
     void FixedUpdate()
     {
-        // Aplik·cia pohybu
-        transform.Translate(movement * speed * Time.fixedDeltaTime);
+        // AplikÔøΩcia pohybu
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }
